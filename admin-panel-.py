@@ -31,8 +31,8 @@ def findAdmin():
 
 def Credit():
 	Space(9); print "############################"
-	Space(9); print "#   Yapan Mustafa Yuksel   #"
-	Space(9); print "#   Yardimci Ahmet Yuksel  #"
+	Space(9); print "#   Yapan Chinger          #"
+	Space(9); print "#   Yardimci Stranger5     #"
 	Space(9); print "#   Turk Hack Team Turkiye #"
 	Space(9); print "############################"
 
